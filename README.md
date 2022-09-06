@@ -1,2 +1,6 @@
-# SCAM_Algorithm
- Algoritmo  SCAM, feito para aula de grafos da UFSJ.
+# SCAM Algorithm
+### Bibliotecas necessarias:
+* ighaph (pip install igraph);
+* matplotlib (pip install matplotlib).
+
+Algoritmo criado para matéria de grafos da UFSJ.
