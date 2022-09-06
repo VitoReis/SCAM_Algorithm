@@ -61,7 +61,7 @@ def vertexValue(graph):
 
     # Determina o valor dos vertices
     paths = graph.get_all_simple_paths(s, t)
-    print(f'Paths by value: {paths}')
+    print(f'Paths by index: {paths}')
     graph.vs['value'] = 0
     for path in paths:    # Para cada caminho existente, se o vertice não é 'S' ou 'T', e esta em algum caminho...
         for vertex in path:
